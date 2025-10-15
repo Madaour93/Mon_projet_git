@@ -1,0 +1,2 @@
+git un un logiciel  de gestion de version
+Il est créer par linus travals en 2005
