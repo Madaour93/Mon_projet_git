@@ -1,1 +1,1 @@
-Mon projet git pour les exercice sur le cours git
+Projet exercice 1 blablabla
